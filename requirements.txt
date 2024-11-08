@@ -1,0 +1,15 @@
+plotly
+yellowbrick
+numpy
+seaborn
+matplotlib
+pyautogui
+selenium
+requests
+pyautogui
+pillow
+opencv-python
+beautifulsoup4
+openpyxl
+PySide6
+SQLite
