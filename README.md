@@ -65,13 +65,13 @@ Ao realizar uma busca, os produtos encontrados serão exibidos e armazenados no 
 ###### Estrutura do Banco de Dados
 O banco de dados SQLite criado contém as seguintes tabelas:
 
-**usuarios**: Contém informações dos usuários que podem fazer login.
-<nome_do_produto>: Tabelas dinâmicas criadas para cada produto pesquisado, contendo as colunas:
-**id: **Identificador único do registro.
-**site:** Nome do site onde o produto foi encontrado.
-**nome:** Nome do produto.
-**valor:** Preço do produto.
-**link:** URL do produto.
+- **usuarios:** Contém informações dos usuários que podem fazer login.
+- **nome_do_produto:** Tabelas dinâmicas criadas para cada produto pesquisado, contendo as colunas:
+- **id:** Identificador único do registro.
+- **site:** Nome do site onde o produto foi encontrado.
+- **nome:** Nome do produto.
+- **valor:** Preço do produto.
+- **link:** URL do produto.
 
 ### Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou um pull request.
