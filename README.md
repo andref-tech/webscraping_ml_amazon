@@ -1,5 +1,5 @@
 # Webscraping de Valores - Mercado Livre e Amazon <img src= 'https://github.com/andref-tech/andref-tech/blob/main/Python-programming-logo-on-transparent-background-PNG.png' width='70'>
-# Descrição do Projeto 
+## Descrição do Projeto 
 
 Este projeto é uma aplicação desktop desenvolvida em Python utilizando a biblioteca **PySide6** para a interface gráfica e **SQLite** para o gerenciamento de banco de dados. A aplicação permite ao usuário realizar buscas de produtos em sites como **Mercado Livre e Amazon**, visualizar os resultados e armazenar as informações em um banco de dados.
 
